@@ -1,4 +1,4 @@
-#### [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
+# [Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)
 
 难度：简单
 
